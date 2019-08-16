@@ -1,0 +1,16 @@
+.note {
+  background-color: lightgray;
+}
+
+.highlight {
+  background-color: #ffc107;
+}
+
+li {
+  cursor: pointer;
+}
+
+.list-group-item.active {
+  background-color: #ffc107 !important;
+  border-color: rgba(0,0,0,.125) !important;
+}
